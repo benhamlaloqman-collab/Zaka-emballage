@@ -154,6 +154,7 @@
   <h2>منتجاتنا</h2>
   <div class="grid">
     <div class="card">
+   <img src="https://images.pexels.com/photos/3756521/pexels-photo-3756521.jpeg?auto=compress&cs=tinysrgb&w=600" alt="قوالب حلويات">
       <img src="https://i.imgur.com/qXkPjXh.jpg" alt="قوالب حلويات">
       <h3>قوالب حلويات</h3>
       <p>قوالب متنوعة بجودة عالية</p>
