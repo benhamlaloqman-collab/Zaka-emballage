@@ -154,7 +154,7 @@
   <h2>منتجاتنا</h2>
   <div class="grid">
     <div class="card">
-      <img src="https://pixabay.com/images/download/blueberries-3946230_1920.jpg" alt="قوالب حلويات">
+      <img src="https://skc.erpmaxsolutions.com/files/61SinZCmTpL._AC_UF1000,1000_QL80_.jpg" alt="قوالب حلويات">
       <h3>قوالب حلويات</h3>
       <p>قوالب متنوعة بجودة عالية</p>
       <a class="btn" href="https://wa.me/213776818807">اطلب الآن</a>
