@@ -160,7 +160,7 @@
       <a class="btn" href="https://wa.me/213776818807">اطلب الآن</a>
     </div>
     <div class="card">
-      <img src="https://i.imgur.com/8Q7V5WQ.jpg" alt="مواد أولية">
+      <img src="https://eldjoumhouria.dz/media/articles/3/%D9%85%D8%B3%D8%AA%D9%84.jpg" alt="مواد أولية">
       <h3>مواد أولية</h3>
       <p>شوكولا، فانيليا، ألوان غذائية</p>
       <a class="btn" href="https://wa.me/213776818807">اطلب الآن</a>
